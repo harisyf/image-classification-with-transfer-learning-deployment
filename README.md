@@ -1,5 +1,5 @@
-# Animal Image Classification With Transfer Learning and Deployment into TFLite
-A project for my submission of my learning in IDCamp 2023 about machine learning to make an animal images classification. This project is about classifying animal images using transfer learning with MobileNetV2 and then convert the trained model into TFLite. The model created by using Python with TensorFlow and Keras. I use Google Colab notebook to run my code, so I recommend to use Google Colab if you want to try my code. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10) from Kaggle.
+# Animal Image Classification With Transfer Learning and Deployment into TF Lite
+A project for my submission of my learning in IDCamp 2023 about machine learning to make an animal images classification. This project is about classifying animal images using transfer learning with MobileNetV2 and then convert the trained model into TF Lite. The model created by using Python with TensorFlow and Keras. I use Google Colab notebook to run my code, so I recommend to use Google Colab if you want to try my code. The dataset that I used for this project is [this dataset](https://www.kaggle.com/datasets/alessiocorrado99/animals10) from Kaggle.
 
 # Requirements
 
@@ -60,9 +60,9 @@ There are several steps in this project as stated below:
   
   ![Model Evaluation.](https://github.com/harisyf/image-classification-with-transfer-learning-deployment/blob/main/images/evaluation.png)
   
-* Saved Model to TFLite Format
+* Saved Model to TF Lite Format
 
-  Then after we train our model, let's save it and convert the saved model into TFLite format.
+  Then after we train our model, let's save it and convert the saved model into TF Lite format.
   
 You may check my notebook for the detail of every steps.
 
